@@ -6,7 +6,7 @@
 
 ## Description
 
-* View of working project = https://robbiekruszynski.github.io/rk-build/
+* View of working project = https://robbiekruszynski.github.io/RK-build/index.html
 * Creating a website that showcases knowledge of HTML5 and css
 * Within css creating both a custom stylesheet along with bootstrap implementation
 * -Meeting project requirements which are listed below
