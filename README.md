@@ -17,7 +17,7 @@
 
 ## Setup/Installation Requirements
 
-* Through github, your clone link for this project is found here https://github.com/Robbiekruszynski/week-1-project.git
+* Through github, your clone link for this project is found here https://github.com/Robbiekruszynski/portfolio.git
 * within terminal enter
     -cd desktop
     -git clone https://github.com/Robbiekruszynski/week-1-project.git
