@@ -31,6 +31,17 @@ p {
   text-align: center;
 }
 
+#gitTag {
+  text-align: center;
+}
+
+.groupHome {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
 .git-panel {
   background-image: url("../img/ball.gif");
   background-size: cover;
