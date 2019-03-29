@@ -15,29 +15,26 @@
 * -Beyond the assignment requirements, this is also an experiment with minimal design
 *   -A foundation for a personal website that will be updated throughout the class
 
+## Upcoming 
+* Continuation of buildout 
+* Impliment media q responsiveness 
+* build out webpack / environment 
+* add SCSS 
+
 ## Setup/Installation Requirements
 
 * Through github, your clone link for this project is found here https://github.com/Robbiekruszynski/portfolio
 * within terminal enter
     -cd desktop
-    -git clone https://github.com/Robbiekruszynski/week-1-project.git
+    -git clone https://github.com/Robbiekruszynski/portfolio.git
 
-* Open directory titled week-1-project now located on desktop
+* Open directory titled portfolio now located on desktop
 * Open file titled index.html with your browser
 * Explore the website using the navigation tabs
 
 ## Known Bugs
 
-* Bug known in index.html                        -01/11/19
-* LINE 25:
-*            <embed src="files/rk.pdf"width="800px" height=1000" />
-
-* code post line 25 stays green opposed to white
-* embedded element <embed src="files/rk.pdf" does not have a close to adjust this
-*                  <embed src="files/rk.pdf"> corrects the color of code
-*                  however, it negatively impacts the resume on the viewport.
-
-* Unable to to close the PDF without manipulation of current standing negatively.
+* None
 
 
 ## Support and contact details
